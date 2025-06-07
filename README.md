@@ -66,8 +66,3 @@ This project presents a comprehensive analysis and forecasting of a time series 
 
 ---
 
-## 📤 Final Forecast
-
-- The models were retrained using the full training data (up to November 30, 2016).
-- Final forecasts for December 2016 were generated and saved to:
-
